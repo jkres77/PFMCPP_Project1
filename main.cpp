@@ -74,7 +74,7 @@ dog.bark();
 //  action 2:   the dog runs
 dog.run();
 //  action 3:   the dog sits
- dog.sit();
+dog.sit();
 //  4)
 //  Noun:       cat
 //  action 1:   the cat meows
@@ -114,7 +114,7 @@ freezer.freeze();
 //  action 2:   the freezer makes ice
 freezer.makeIce();
 //  action 3:   the freezer thaws
- freezer.thaw();
+freezer.thaw();
 //  9)
 //  Noun:       bird
 //  action 1:   the bird flies
