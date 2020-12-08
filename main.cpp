@@ -108,13 +108,13 @@ vcr.rewindTape();
 //  action 3:   the vcr pauses tape
 vcr.pauseTape();
 //  8)
-//  Noun:       freezer
-//  action 1:   the freezer freezes
-freezer.freeze();
-//  action 2:   the freezer makes ice
-freezer.makeIce();
-//  action 3:   the freezer thaws
-freezer.thaw();
+//  Noun:       guitar amplifier
+//  action 1:   the guitar amplifier outputs sound
+guitarAmplifier.outputSound();
+//  action 2:   the guitar amplifier increases gain
+guitarAmplifier.increaseGain();
+//  action 3:   the guitar amplifier powers off
+guitarAmplifier.powerOff();
 //  9)
 //  Noun:       bird
 //  action 1:   the bird flies
