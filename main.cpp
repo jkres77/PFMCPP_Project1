@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       plant
+//  action 1:   the plant grows
+plant.grow();
+//  action 2:   the plant withers
+plant.wither();
+//  action 3:   the plant dies
+plant.die();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       pot
+//  action 1:   the pot holds water
+pot.holdWater();
+//  action 2:   the pot heats food
+pot.heatFood();
+//  action 3:   the pot pours liquid
+pot.pourWater();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog runs
+dog.run();
+//  action 3:   the dog sits
+dog.sit();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cat
+//  action 1:   the cat meows
+cat.meow();
+//  action 2:   the cat purrs
+cat.purr();
+//  action 3:   the cat plays
+cat.play();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       window
+//  action 1:   the window frosts
+window.frost();
+//  action 2:   the window opens
+window.open();
+//  action 3:   the window closes
+window.close();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tv
+//  action 1:   the tv powers on
+tv.powerOn();
+//  action 2:   the tv shows cartoons 
+tv.showCartoon();
+//  action 3:   the tv powers off
+tv.powerOff();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       vcr
+//  action 1:   the vcr plays movies
+vcr.playMovie();
+//  action 2:   the vcr rewinds tape
+vcr.rewindTape();
+//  action 3:   the vcr pauses tape
+vcr.pauseTape();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       guitar amplifier
+//  action 1:   the guitar amplifier outputs sound
+guitarAmplifier.outputSound();
+//  action 2:   the guitar amplifier increases gain
+guitarAmplifier.increaseGain();
+//  action 3:   the guitar amplifier powers off
+guitarAmplifier.powerOff();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird
+//  action 1:   the bird flies
+bird.fly();
+//  action 2:   the bird makes a nest
+bird.makeNest();
+//  action 3:   the bird lays eggs
+bird.layEgg();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       calculator
+//  action 1:   the calculator adds
+calculator.add();
+//  action 2:   the calculator subtracts
+calculator.subtract();
+//  action 3:   the calculator multiplies
+calculator.multiply();
 
 
 #endif
